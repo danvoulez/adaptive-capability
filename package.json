@@ -6,6 +6,6 @@
     "test": "node --experimental-strip-types --test tests/*.test.mjs"
   },
   "dependencies": {
-    "zod": "^3.25.0"
+    "zod": "^4.6.6"
   }
 }
